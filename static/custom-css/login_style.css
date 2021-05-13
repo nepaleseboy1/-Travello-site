@@ -1,0 +1,92 @@
+
+.form1{
+    height: 500px;
+    width: 400px;
+    /* background-image:url("bgimg1.jpg"); */
+    
+    background-size: cover;
+    border: 2px ;
+    border-radius: 20px;
+    text-align: center;
+    
+    margin:0 auto;
+    margin-top: 50px;
+    
+    
+    
+    box-shadow:-5px 5px 10px rgb(184, 205, 211);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+
+}
+.form2{
+    height: 500px;
+    width: 400px;
+    /* background-image:url("bgimg1.jpg"); */
+    
+    background-size: cover;
+    border: 2px ;
+    border-radius: 20px;
+    text-align: center;
+    
+    margin:0 auto;
+    margin-top: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    box-shadow:-5px 0px 10px rgb(184, 205, 211);
+    
+    
+
+}
+.err p{
+    color: red !important;
+    background-color: blue;
+}
+
+.btn1{
+    width: 100px;
+    margin-right: 5px;
+
+}
+.btn2 b a{
+    color: white;
+}
+.btn2 b a:hover{
+    text-decoration: none;
+}
+.inp1{
+    outline: none;
+    margin: 10px;
+    width: 50%;
+    text-align: center;
+
+}
+.buttons{
+    margin-top: 3rem;
+}
+
+.inp2{
+    outline: none;
+    width: 50%;
+    float: right;
+    text-align: center;
+    margin-right: 40px !important;
+
+
+}
+.header{
+    background-color: rgb(56, 116, 228);
+    color:white;
+    padding: 20px;
+    border-radius:20px 20px 0px 0px ;
+    margin-bottom: 20px;
+    
+}
+.label{
+    margin-left: 20px;
+    float: left;
+}
+.btn3{
+    margin-right: 100px;
+}
+
